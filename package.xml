@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>Mukesh_projects</name>
+  <version>0.0.1</version>
+  <description>Custom MuJoCo simulation projects by Mukesh Dewangan</description>
+
+  <maintainer email="mukesh.dewagan@iitgn.ac.in">Mukesh Dewangan</maintainer>
+
+  <license>TODO</license>
+  <author>Mukesh Dewangan</author>
+
+  
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>launch</exec_depend>                  
+  <exec_depend>launch_ros</exec_depend>              
+  <exec_depend>mujoco_ros2_control</exec_depend>     
+<export>
+  <build_type>ament_cmake</build_type>
+</export>
+
+</package>
