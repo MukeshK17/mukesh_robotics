@@ -23,3 +23,4 @@
     <motor ctrllimited = "true" ctrlrange = "-3 3" gear = "100" joint = "slider" name = "slide"/>
     </actuator>
 </mujoco>
+
